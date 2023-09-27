@@ -78,5 +78,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For questions or support, please contact [jobsforsaurabhharak@gmail.com](mailto:jobsforsaurabhharak@gmail.com).
-
----
