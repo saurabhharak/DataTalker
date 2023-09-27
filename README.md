@@ -77,8 +77,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or support, please contact [your_email@example.com](mailto:jobsforsaurabhharak@gmail.com).
+For questions or support, please contact [jobsforsaurabhharak@gmail.com](mailto:jobsforsaurabhharak@gmail.com).
 
 ---
-
-*Note: Replace `your_username` and `your_email@example.com` with your actual GitHub username and email address.*
