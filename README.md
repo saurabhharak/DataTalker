@@ -1,5 +1,7 @@
 # DataTalker
 
+## Live Application Link : [DataTalker](https://huggingface.co/spaces/saurabhharak/DataTalker)
+
 ## Introduction
 
 DataTalker is a Streamlit web application that allows users to have a conversation with their dataset. It leverages the LangChain library to facilitate natural language interactions with the data.
@@ -78,3 +80,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For questions or support, please contact [jobsforsaurabhharak@gmail.com](mailto:jobsforsaurabhharak@gmail.com).
+
+
